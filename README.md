@@ -1,1 +1,1 @@
-Initial README content - Student Management System
+Developer A is creating a Git Conflict
