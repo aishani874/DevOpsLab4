@@ -1,2 +1,2 @@
-Developer A is creating a Git Conflict
+Developer A is creating a Conflict
 Developber B's work is done 
