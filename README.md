@@ -1,1 +1,1 @@
-Initial README content - Student Management System
+Developber B's work is done 
